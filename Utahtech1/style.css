@@ -34,7 +34,6 @@ footer {
     text-align: center;
 }
 #wrapper {
-    width: 80%;
-    margin-right: auto;
-    margin-left: auto;
-}
+    width: 80%; /* Adjust width as needed */
+    margin: 0 auto; /* Centers content */
+  }
