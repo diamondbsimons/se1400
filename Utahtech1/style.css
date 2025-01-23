@@ -1,40 +1,46 @@
 body {
     background-color: #FFFFFF;
     color: #666666;
-    font-family: Verdana. Arial, Helvetica, ;
-}
-header{
+    font-family: Verdana, Arial, sans-serif;
+  }
+  #wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  header {
     background-color: #003058;
     color: #FFFFFF;
     font-family: Georgia, serif;
-}
-header h1 {
+    text-align: center;
+    padding: 1rem 0;
+  }
+  header h1 {
     line-height: 140%;
-    padding: .5rem;
-}
-nav {
+    padding: 0.5rem;
+  }
+  nav {
     font-weight: bold;
-    background-color: #f3f3f3;
-}
-h2 {
+    background-color: #F3F3F3;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  h2 {
     color: #424242;
     font-family: Georgia, serif;
-}
-dt {
+  }
+  dt {
     color: #003058;
     font-weight: bold;
-}
-.ut {
+  }
+  .ut {
     color: #BA1C21;
-    font-wight: bold;
-}
-footer {
-    font-size: .70rem;
+    font-weight: bold;
+  }
+  footer {
+    font-size: 0.70rem;
     font-style: italic;
     text-align: center;
-}
-#wrapper {
-    width: 80%; /* Set the width to 80% of the viewport */
-    margin-right: auto; /* Automatically adjust the right margin */
-    margin-left: auto; /* Automatically adjust the left margin */
+    margin-top: 2rem;
   }
+  
