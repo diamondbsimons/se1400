@@ -3,41 +3,49 @@ body {
   color: #666666;
   font-family: Verdana, Arial, sans-serif;
 }
+
 header {
   background-color: #003058;
   color: #FFFFFF;
   font-family: Georgia, serif;
-  text-align: center;
+  text-align: left;
   padding: 1rem 0;
 }
+
 header h1 {
   line-height: 140%;
   padding: 0.5rem;
 }
+
 nav {
   font-weight: bold;
   background-color: #F3F3F3;
-  text-align: center;
+  text-align: left;
   padding: 0.5rem 0;
 }
+
 h2 {
   color: #424242;
   font-family: Georgia, serif;
 }
+
 dt {
   color: #003058;
   font-weight: bold;
 }
+
 .ut {
   color: #BA1C21;
   font-weight: bold;
 }
+
 footer {
   font-size: 0.70rem;
   font-style: italic;
   text-align: center;
   margin-top: 2rem;
 }
+
 #wrapper {
   width: 80%;
   margin-right: auto;
